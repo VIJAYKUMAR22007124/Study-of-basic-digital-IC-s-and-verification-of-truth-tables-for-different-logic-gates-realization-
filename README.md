@@ -1,10 +1,10 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## AIM:
  
  
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+## Equipments Required:
 
 
 Hardware – PCs, Cyclone II , USB flasher
@@ -13,10 +13,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 
 
-Theory
-
-
-Introduction
+## Introduction
 
 
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
@@ -63,7 +60,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-Procedure:
+## Procedure:
 ```
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
@@ -71,7 +68,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ```
-Program:
+## Program:
 ![Screenshot (288)](https://user-images.githubusercontent.com/119657657/230291284-138a1cd0-3013-4a7a-bb2f-58866ca2373f.png)
 
 ```
@@ -80,17 +77,19 @@ Developed by: B.VIJAY KUMAR
 RegisterNumber:  212222230173
 
 ```
-Logic symbol & Truthtable
-RTL realization
-Output:
+
+## Output:
 
 ![Screenshot 2023-04-06 113447 (2)](https://user-images.githubusercontent.com/119657657/230292388-4175e867-e427-46fc-b9d6-272cf0b58308.png)
 
+## RTL realization:
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/119657657/230291371-f4f922e1-10b7-4008-9a23-263b1f5fdd0f.png)
+
+## Truthtable:
 
 ![Screenshot (289)](https://user-images.githubusercontent.com/119657657/230291448-8a6ba735-4def-43aa-94ce-d2598f696d7c.png)
 
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
